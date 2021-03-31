@@ -1,0 +1,66 @@
+/* FOR IMAGE*/
+#IMAGEUPLOADER {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 50%;
+    margin-bottom: 10px;
+}
+/* FOR VIDEOS*/
+#VIDEOUPLOADER {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 50%;
+    margin-bottom: 10px;
+}
+/* FOR AUDIOS*/
+#AUDIOUPLOADER {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 50%;
+    margin-bottom: 10px;
+}
+/* FOR DOCUMENT*/
+#DOCUMENTUPLOADER {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 50%;
+    margin-bottom: 10px;
+}
+/* FOR ZIP*/
+#ZIPUPLOADER {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 50%;
+    margin-bottom: 10px;
+}
+/* FOR ADS*/
+#ADSUPLOADER {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 50%;
+    margin-bottom: 10px;
+}
+/* FOR JOB */
+#JOBUPLOADER {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 50%;
+    margin-bottom: 10px;
+}
+
+
+/* FOR EDITING PROFILE PICTURE AND COVER IMAGE */
+#PROFILEIMAGE {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 50%;
+    margin-bottom: 10px;
+}
+
+/* FOR EDITING PROFILE PICTURE AND COVER IMAGE */
+#COVERIMAGE {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 50%;
+    margin-bottom: 10px;
+}
