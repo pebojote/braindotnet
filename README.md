@@ -1,10 +1,9 @@
 # Braindotnet
-
-Braindotnet is a PWA social networking application developed during [Edison Pebojot](https://www.github.com/workpebojot/)'s freshman year at [AMA Computer University](https://en.wikipedia.org/wiki/AMA_Computer_University). Specifically, it was developed in the year 2018.
+Developed during [Edison Pebojot](https://www.github.com/workpebojot/)'s freshman year at [AMA Computer University](https://en.wikipedia.org/wiki/AMA_Computer_University), Braindotnet is a PWA social networking application. It was specifically created in the year 2018. The old website is still up and running, and you can find it [here](https://braindotnet.web.app/).
 
 ## Motivation
 
-The motivation behind it is simple, build a communication tool among students. I was first design it as quiz app for studets but I made it as a social networking app.
+The goal is to create a tool for students to communicate with one another. I originally intended it to be a quiz app for students, but it evolved into a social networking app.
 
 ## Screenshot
 <img src="https://user-images.githubusercontent.com/38276345/113074331-70ca6d80-91fd-11eb-890f-889a3e32f417.png" />
@@ -32,7 +31,7 @@ index.hmtl > #BODY
 4. `$ npm install`
 
 ## How to used
-As we all know, I was a freshman college student and now I am a graduate student. I completely forgot how this freaking project works. What I still remember is you need a firebase CLI and initialize a new project using `firebase init`. That's it, now you can code what you want. After that, you use `firebase deploy` to deploy your production to firebase hosting.
+As you may know, I was a freshman in college at the time and am now a graduate student. I had completely forgotten how this project works. What I recall is that you'll need a firebase CLI and that you'll use `firebase init` to create a new project. That's all there is to it; now you can code whatever you want. Then, using `firebase deploy`, you can upload your production folder to firebase hosting.
 
 ## Contribute
 So if you want to contribute, feel free to open a PR for a review. Thanks! 😉
