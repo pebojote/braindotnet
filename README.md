@@ -1,3 +1,6 @@
+
+<img src="https://user-images.githubusercontent.com/38276345/113077885-9d35b800-9204-11eb-8c60-9c8ddae1cb19.gif" width="100%" />
+
 # Braindotnet
 Developed during [Edison Pebojot](https://www.github.com/workpebojot/)'s freshman year at [AMA Computer University](https://en.wikipedia.org/wiki/AMA_Computer_University), Braindotnet is a PWA social networking application. It was specifically created in the year 2018. The old website is still up and running, and you can find it [here](https://braindotnet.web.app/).
 
